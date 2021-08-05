@@ -10,4 +10,4 @@ This project raises two technological perspectives notably distanced:
 
 - The first alternative is a *Java* project implemented with *Maven* and using *Springboot* as a framework, which offers a REST application with MySQL database deployed in a local *Kubernetes* cluster with *minikube*. [**Linked repository**](https://github.com/Rubru94/tfm-springboot).
 
-- The second option is based on *AWS serverless* technologies, using *API Gateway*, *Lambda* functions, *DynamoDB* database and *SAM*.  This option is explained in [**current repository WIKI**](https://github.com/Gabriel-Acevedo/tfm-aws/wiki).
+- The second option is based on *AWS serverless* technologies, using *API Gateway*, *Lambda* functions, *DynamoDB* database and *SAM*.  This option is explained in [**current repository WIKI**](https://github.com/ggordo12/AWS-Lambda/wiki).
